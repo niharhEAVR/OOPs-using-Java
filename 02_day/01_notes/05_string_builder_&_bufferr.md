@@ -159,29 +159,6 @@ You might see inconsistent or corrupted output due to **concurrent modification*
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### ✅ **Mutable vs Immutable Methods in Java**
 
 In Java:

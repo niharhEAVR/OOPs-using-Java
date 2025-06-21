@@ -1,7 +1,3 @@
-### ✅ **Explanation of Your Code**
-
----
-
 ### **1. Array Initialization:**
 ```java
 int[][] arr = new int[5][5];   // Declaring a 2D array with 5 rows and 5 columns
@@ -125,13 +121,6 @@ public class ArrayInput {
 2. **Use Cases:**
    - When you only need to **read** or **print** values → use **enhanced for loop**.
    - When you need to **modify, insert, or access by index** → use **traditional `for` loop**.
-
----
-
-✅ Let me know if you need more examples or explanations about arrays and loops in Java! 🚀
-
-
-
 
 
 ---

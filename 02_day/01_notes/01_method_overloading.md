@@ -1,7 +1,3 @@
-Sure! 😊 Let me explain this Java code to you.
-
----
-
 ### ✅ **1. Method Overloading**
 The code you shared demonstrates **method overloading**, which is a feature in Java that allows you to define **multiple methods with the same name** but with different parameter lists (different types, numbers, or both).
 
